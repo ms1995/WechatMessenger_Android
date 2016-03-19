@@ -1,0 +1,30 @@
+.gradle
+/local.properties
+/gradle.properties
+/gradlew
+.DS_Store
+# built application files
+*.apk
+
+# generated files
+bin/
+gen/
+  
+# Eclipse project files
+.classpath
+.project
+  
+# Android Studio
+.idea/
+gradle
+/*/local.properties
+/*/out
+/*/*/build
+build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+app/manifest-merger-release-report.txt
